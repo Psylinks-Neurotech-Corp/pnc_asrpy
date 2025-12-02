@@ -1,3 +1,6 @@
+# FORKED FROM https://github.com/DiGyt/asrpy
+# THEY REPORT IT IS UNMAINTANED AS OF 2025-12-02
+
 [![Tests](https://github.com/DiGyt/asrpy/actions/workflows/publish.yml/badge.svg)](https://github.com/DiGyt/asrpy/actions/workflows/publish.yml)
 [![codecov](https://codecov.io/gh/DiGyt/asrpy/branch/main/graph/badge.svg)](https://codecov.io/gh/DiGyt/asrpy)
 [![PyPI version](https://img.shields.io/pypi/v/asrpy.svg)](https://pypi.org/project/asrpy/)
